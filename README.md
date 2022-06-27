@@ -1,6 +1,13 @@
 ## Lucas Barros
 ### Hello, Devs!!
 
+- Atualmente estou trabalhando como desenvolvedor front-end junior em uma empresa de desenvolvimento de sites institucionais e e-commerces.
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/html-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/css-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/php-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/javascript-original.svg" width="40" height="40"/>
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgbarros&layout=compact&langs_count=7&theme=dracula"/>
